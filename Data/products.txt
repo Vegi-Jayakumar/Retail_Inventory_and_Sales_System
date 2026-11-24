@@ -1,1 +1,2 @@
-101|HP Pavilion Gaming|Laptops|70000.0|12
+101|HP Pavilion Gaming|Laptops|70000.00|12
+b1|Rich dad poor dad|Books|200.00|46
